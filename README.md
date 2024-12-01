@@ -1,0 +1,2 @@
+# projectduckdb
+Project python duckdb
